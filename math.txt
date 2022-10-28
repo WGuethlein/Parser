@@ -1,0 +1,14 @@
+/// This file demonstrate math operations and variable declarations and assignments, as well as some data types.
+int main(){
+    int x;
+    float y;
+    int array[10];
+
+    y = 5.9;
+    x = 31;
+
+    z = y * x + 400.32;
+
+    e = x % 17;
+    array[5 + 1] = z / e;
+}

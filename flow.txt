@@ -1,0 +1,9 @@
+// This file demonstrate if statement, while statement, and statement block.
+int main () {
+    if (x > y)
+        p = p + 1;
+
+    while (p < x) {
+        p = -p + 1;
+    }
+}

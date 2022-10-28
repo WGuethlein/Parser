@@ -1,0 +1,11 @@
+int main () {
+    bool w, x;
+    bool y;
+
+    w = false;
+    x = true;
+
+    y = w && x || !w || x && w || w
+
+    x = y
+}
